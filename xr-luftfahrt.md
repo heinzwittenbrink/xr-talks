@@ -35,7 +35,7 @@ Source: https://flic.kr/p/2is1m5F
 
 #
 
-![](/pics/klimaeffekte_luftfahrt.png)
+![](pics/klimaeffekte_luftfahrt.png)
 
 Quelle: [@umweltbundesamtSchwerpunktFliegen2019, S. 16f.]
 
