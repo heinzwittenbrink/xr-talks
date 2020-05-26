@@ -90,6 +90,31 @@ Quelle: [@pidcockAnalysisAviationCould2016]
 
 Quelle: [@vcoeVCOeFactsheet202005Klimakrise2020]
 
+
+::: notes
+
+[Facebook-Eintrag Stefan Mittermüller, 16. Mai 2020
+](https://www.facebook.com/stefan.mittermuller.3/posts/1464667263713178 "Facebook")
+
+> Aus in Österreich getanktem Kerosin wird 2019 3-mal soviel emittiert wie noch 1990!
+In den Verhandlungen über die AUA-Rettung geht es laut Medienberichten um ein bisserl umweltfreundlichere Flugzeuge und ein bisserl weniger Kurzstrecke.
+Wenn, dann müssen Flüge für ganz Europa gestrichen werden, nicht nur für 2,5-Stunden-Bahnfarten wie in Frankreich vereinbart wurde!
+Verbrauchsstatistik Mineralöl der WKO - 2019: 950.945,04 Tonnen Kerosin
+https://www.wko.at/branchen/industrie/mineraloelindustrie/verbrauchsstatistik.html
+Dieses Kerosin wird zu 2,996 also 3 Mio Tonnen CO2 verbrannt.
+Das ist mehr als das 3-fache wie die 0,9 Mio Tonnen 1990.
+https://www.vcoe.at/presse/presseaussendungen/detail/20181205-co2-emissionen-flugverkehr-oesterreich
+Tatsächlich wirken diese 3 Mio Tonnen durch Kondensstreifen, Zirrusbewölkung,...
+lt. UBA mindestens 2,7 - mal so stark wie der Effekt nur vom CO2.
+Es gibt dadurch also einen Klimaeffekt, der 8,1 Mio Tonnen CO2 entspricht.
+Im Klimaschutzbericht sind 82,3 Mio Tonnen für Österreich ausgewiesen (ohne Flugverkehr, nur ein paar Promille innerösterreichischer Flugverker).
+Rechnet man also die Wirkung des Flugverkehrs dazu, ergibt das die Wirkung von 90,3 Mio Tonnen.
+8,9% Flugverkehrs-Anteil der Klimawirkung Österreichs und es wird über ein paar Trostpflaster verhandelt!
+https://vcoe.at/publikationen/vcoe-factsheets/detail/vcoe-factsheet-2020-05-klimakrise-nur-mit-wenig-flugverkehr-zu-bewaeltigen
+
+
+:::
+
 # Flughäfen Zukunft
 
 - Geplante Infrastrukturprojekte zum Flughafenausbau (kommende 20 Jahren): ca 1000 [@DegrowthAviationReducing2019, S.6]
