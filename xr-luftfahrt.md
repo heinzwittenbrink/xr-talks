@@ -14,7 +14,7 @@ csl: apa.csl
 
 # CO2-Ausstoß aktuell
 
-- CO2-Emissionen 2018 weltweit: 9,8 Mill. Tonnen (2,4% der Gesamtemissionen)
+- CO2-Emissionen 2018 weltweit: 918 Mill. Tonnen (2,4% der Gesamtemissionen)
 - Anstieg der Emissionen weltweit 2013-2018: 35%
 - Anteil der USA an durch Passagiere verursachten Emissionen 2018: 24%
 - Größte Emittenten (Länder): USA, China, UK, Japan, Deutschland
