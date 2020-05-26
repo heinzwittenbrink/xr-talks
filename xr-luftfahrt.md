@@ -1,15 +1,24 @@
 
 
 
-ICAO: International Civil Aviation Organization (Website: [International Civil Aviation Organization](https://www.icao.int/Pages/default.aspx "Home"))
-
-ACI: Airports Council International (Website: [ACI World: The voice of the world's airports](https://aci.aero/ "ACI World: The voice of the world's airports"))
 
 
 # CO2-Verbrauch aktuell
 
-# Flugzeuge sind das CO2-intensivste Verkehrsmittel
+- CO2-Emissionen 2018: 9,8 Mill. Tonnen (2,4% der Gesamtemissionen)
+- Fünfjahreswachstum bis 2018: 35%
+- Anteil der USA an durch Passagiere verursachten Emissionen 2018: 24%
+- Größte Emittenten (Länder): USA, China, UK, Japan, Deutschland
 
+Quelle:
+
+# CO2-Emissionen 2018
+
+![](https://theicct.org/sites/default/files/chart_landing-pg.png)
+
+Quelle: [CO2 emissions from commercial aviation, 2018 | International Council on Clean Transportation](https://theicct.org/publications/co2-emissions-commercial-aviation-2018 "CO2 emissions from commercial aviation, 2018 | International Council on Clean Transportation")
+
+# Flugzeuge sind das CO2-intensivste Verkehrsmittel
 
 ![](https://live.staticflickr.com/65535/49521054047_62b8657576_c.jpg)
 
@@ -17,17 +26,14 @@ Source: https://flic.kr/p/2is1m5F
 
 # Klimawirkung aktuell
 
-- Faktor für die Klimawirung der Luftfahrt
-"e  Austrian  Environment  Agency uses a factor of 2.7 to account for the non-CO2 related climate impacts of aviation" ( 2019:7)
-
-"2005 estimate stated that civil aviation's climate impact amounted to around 5%" ( 2019:8)
+- Faktor für die Klimawirkung der Luftfahrt lt. Österreichischem Bundesumweltamt: 2.7 [@DegrowthAviationReducing2019, S.7]
+- Geschätzte Klimawirkung der Luftfahrt insgesamt 2005: 5%" [@DegrowthAviationReducing2019, S.8]
 
 # CO2 Verbrauch Zukunft
 
 - Geplant: Verdoppelung der Flugkilometer in den kommenden 20 Jahren
 - Steigerung der CO2-Emissionen 1990-2010: ca. 25%
 - Steigerung der Emissionen der Luftfahrt 1990-2010: ca. 70%
-
 
  [@DegrowthAviationReducing2019, S.6]
 
@@ -41,18 +47,14 @@ Source: https://flic.kr/p/2is1m5F
 
 # Auswirkungen der Luftfahrt
 
+- Anteil des Tourismus an der Luftfahrt: Über 50%
+- Folgen des Massentourismus: Eingriffe in Ökosysteme, Vertreibung örtlichen Gewerbes
+
 # Luftfahrt und Klimagerechtigkeit
 
 - Weniger als 10% der Erdbevölkerung sind schon einmal geflogen. [@DegrowthAviationReducing2019, S.4]
 
-# Privilegien und Subventionen
-
-- Einahmenverlust durch Steuerbefreiungen der Luftfaht in der EU: Jährlich 30-40 Mrd.n €
-
-[@DegrowthAviationReducing2019, S.6]
-
-
-#
+# Steuern auf Treibstoffe
 
 ![](https://live.staticflickr.com/65535/49162524557_cef87532a8_c.jpg)
 
@@ -65,6 +67,12 @@ Source: https://flic.kr/p/2hUjMKK
 - Größere Treibstoff-Effizienz wird durch das Wachstum wirkungslos
 - Zertifikate schränken die Luftfahrt kaum ein
 - Kompensationen sind wirkungslos und teilweise gefährlich
+
+# Privilegien und Subventionen
+
+- Einahmenverlust durch Steuerbefreiungen der Luftfaht in der EU: Jährlich 30-40 Mrd.n €
+
+[@DegrowthAviationReducing2019, S.6]
 
 # Lobbyismus der Luftfahrtbranche
 
@@ -108,8 +116,18 @@ Source: https://flic.kr/p/2hUjMMo
 
 Source: https://flic.kr/p/2hUg78v
 
-# Strategie XR Austria
+# Diskussionspunkte: Strategie XR Austria
 
 - Bündnisse mit Anti-Luftfahrt-Aktivist*innen
 - Aktionen an Flughäfen und gegen Fluggesellschaften ?
 - Schwerpunkte von Kampagnen: Wachstum der Luftfahrt, Luftfahrt als Schlüsselelement des *toxischen Systems*, Bürgerversammlungen gegen Luffahrt-Lobbyismus
+
+# Material, Informationsquellen
+
+Zotero Group Library XR-Austria: Luftfahrt: <https://www.zotero.org/groups/2419368/xr-at/collections/ICNRF3Y9>
+Letzter Stand dieser Präsentation: <https://github.com/heinzwittenbrink/xr-talks/blob/gh-pages/xr-luftfahrt.md>
+
+ - [International Council on Clean Transportation](https://theicct.org/ "International Council on Clean Transportation")
+ - [Home | Stay Grounded](https://stay-grounded.org/ "Home | Stay Grounded")
+ - ICAO: [International Civil Aviation Organization](https://www.icao.int/Pages/default.aspx "Home")
+- ACI: [Airports Council International](https://aci.aero/ "ACI World: The voice of the world's airports"))
