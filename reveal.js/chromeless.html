@@ -12,9 +12,8 @@
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/black.css" id="theme">
 
@@ -45,9 +44,8 @@
 					<h1>Reveal.js</h1>
 					<h3>The HTML Presentation Framework</h3>
 					<p>
-						<small>Created by <a href="https://hakim.se">Hakim El Hattab</a> and <a href="https://github.com/hakimel/reveal.js/graphs/contributors">contributors</a></small>
+						<small>Created by <a href="http://hakim.se">Hakim El Hattab</a> and <a href="https://github.com/hakimel/reveal.js/graphs/contributors">contributors</a></small>
 					</p>
-					<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CKYI553M&placement=revealjscom" id="_carbonads_js"></script>
 				</section>
 
 				<section>
@@ -95,10 +93,7 @@
 						Press <strong>ESC</strong> to enter the slide overview.
 					</p>
 					<p>
-						Hold down the <strong>alt</strong> key (<strong>ctrl</strong> in Linux) and click on any element to zoom towards it using <a href="http://lab.hakim.se/zoom-js">zoom.js</a>. Click again to zoom back out.
-					</p>
-					<p>
-						(NOTE: Use ctrl + click in Linux.)
+						Hold down alt and click on any element to zoom in on it using <a href="http://lab.hakim.se/zoom-js">zoom.js</a>. Alt + click anywhere to zoom back out.
 					</p>
 				</section>
 
@@ -144,14 +139,8 @@
 						<p class="fragment grow">grow</p>
 						<p class="fragment shrink">shrink</p>
 						<p class="fragment fade-out">fade-out</p>
-						<p>
-							<span style="display: inline-block;" class="fragment fade-right">fade-right, </span>
-							<span style="display: inline-block;" class="fragment fade-up">up, </span>
-							<span style="display: inline-block;" class="fragment fade-down">down, </span>
-							<span style="display: inline-block;" class="fragment fade-left">left</span>
-						</p>
-						<p class="fragment fade-in-then-out">fade-in-then-out</p>
-						<p class="fragment fade-in-then-semi-out">fade-in-then-semi-out</p>
+						<p class="fragment fade-up">fade-up (also down, left and right!)</p>
+						<p class="fragment current-visible">current-visible</p>
 						<p>Highlight <span class="fragment highlight-red">red</span> <span class="fragment highlight-blue">blue</span> <span class="fragment highlight-green">green</span></p>
 					</section>
 				</section>
@@ -200,16 +189,16 @@
 					</section>
 					<section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png">
 						<h2>Image Backgrounds</h2>
-						<pre><code class="hljs html">&lt;section data-background="image.png"&gt;</code></pre>
+						<pre><code class="hljs">&lt;section data-background="image.png"&gt;</code></pre>
 					</section>
 					<section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px">
 						<h2>Tiled Backgrounds</h2>
-						<pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&gt;</code></pre>
+						<pre><code class="hljs" style="word-wrap: break-word;">&lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&gt;</code></pre>
 					</section>
 					<section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" data-background-color="#000000">
 						<div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;">
 							<h2>Video Backgrounds</h2>
-							<pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background-video="video.mp4,video.webm"&gt;</code></pre>
+							<pre><code class="hljs" style="word-wrap: break-word;">&lt;section data-background-video="video.mp4,video.webm"&gt;</code></pre>
 						</div>
 					</section>
 					<section data-background="http://i.giphy.com/90F8aUepslB84.gif">
@@ -222,7 +211,7 @@
 					<p>
 						Different background transitions are available via the backgroundTransition option. This one's called "zoom".
 					</p>
-					<pre><code class="hljs javascript">Reveal.configure({ backgroundTransition: 'zoom' })</code></pre>
+					<pre><code class="hljs">Reveal.configure({ backgroundTransition: 'zoom' })</code></pre>
 				</section>
 
 				<section data-transition="slide" data-background="#b5533c" data-background-transition="zoom">
@@ -230,19 +219,12 @@
 					<p>
 						You can override background transitions per-slide.
 					</p>
-					<pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background-transition="zoom"&gt;</code></pre>
-				</section>
-
-				<section data-background-iframe="https://hakim.se" data-background-interactive>
-					<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
-						<h2>Iframe Backgrounds</h2>
-						<p>Since reveal.js runs on the web, you can easily embed other web content. Try interacting with the page in the background.</p>
-					</div>
+					<pre><code class="hljs" style="word-wrap: break-word;">&lt;section data-background-transition="zoom"&gt;</code></pre>
 				</section>
 
 				<section>
 					<h2>Pretty Code</h2>
-					<pre><code class="hljs" data-trim data-line-numbers="4,8-9">
+					<pre><code class="hljs" data-trim data-line-numbers="4|9|4,8-11">
 import React, { useState } from 'react';
 
 function Example() {
@@ -387,7 +369,7 @@ Reveal.addEventListener( 'customevent', function() {
 				<section style="text-align: left;">
 					<h1>THE END</h1>
 					<p>
-						- <a href="https://slides.com">Try the reveal.js editor</a> <br>
+						- <a href="https://slides.com">Try the online editor</a> <br>
 						- <a href="https://github.com/hakimel/reveal.js">Source code &amp; documentation</a>
 					</p>
 				</section>
@@ -404,8 +386,8 @@ Reveal.addEventListener( 'customevent', function() {
 			Reveal.initialize({
 				controls: true,
 				progress: true,
+				history: true,
 				center: true,
-				hash: true,
 
 				transition: 'slide', // none/fade/slide/convex/concave/zoom
 
@@ -413,7 +395,7 @@ Reveal.addEventListener( 'customevent', function() {
 				dependencies: [
 					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
 					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/highlight/highlight.js', async: true },
+					{ src: 'plugin/highlight/highlight.js' },
 					{ src: 'plugin/search/search.js', async: true },
 					{ src: 'plugin/zoom-js/zoom.js', async: true },
 					{ src: 'plugin/notes/notes.js', async: true }
@@ -421,109 +403,6 @@ Reveal.addEventListener( 'customevent', function() {
 			});
 
 		</script>
-
-		<!-- Everything below this point is only used for the reveal.js demo page -->
-
-		<header class="reveal-header">
-			<a class="reveal-header-button" href="https://github.com/hakimel/reveal.js">Source on <em>GitHub</em></a>
-			<span class="reveal-header-delimiter">•</span>
-			<a class="reveal-header-button" href="https://slides.com">Try the reveal.js <em>editor</em></a>
-			<span class="reveal-header-delimiter">•</span>
-			<a class="reveal-header-button" href="https://twitter.com/revealjs">@revealjs</a>
-		</header>
-
-		<style>
-			.reveal-header {
-				display: block;
-				position: absolute;
-				top: 12px;
-				right: 16px;
-				z-index: 20;
-				color: #fff;
-				font-family: "Source Sans Pro", Helvetica, sans-serif;
-				font-size: 14px;
-				letter-spacing: 0.05em;
-			}
-
-			.reveal-header-button {
-				display: inline-block;
-				padding: 14px 10px;
-				color: rgba(255,255,255,0.7);
-				text-transform: uppercase;
-				text-decoration: none;
-				font-weight: 500;
-				box-sizing: border-box;
-				text-align: center;
-			}
-
-			.reveal-header-button em {
-				color: #fff;
-			}
-
-			.reveal-header-button:hover {
-				color: #fff;
-				background: rgba(0,0,0,0.2);
-			}
-
-			.reveal-header-button  + .reveal-header-button {
-				margin-left: 10px;
-			}
-
-			@media screen and (max-width: 500px) {
-				body {
-					display: flex;
-					flex-direction: column;
-				}
-
-				.reveal-header {
-					display: flex;
-					position: initial;
-					background: rgba(0,0,0,0.2);
-					align-items: center;
-					justify-content: flex-end;
-					font-size: 13px;
-					font-size: min(3.8vw, 14px);
-					align-items: center;
-					width: 100%;
-				}
-				.reveal-header-button {
-					flex-grow: 1;
-					margin: 0;
-					padding-left: 4px;
-					padding-right: 4px;
-					text-transform: none;
-				}
-				.reveal-header-delimiter {
-					display: none;
-				}
-			}
-
-			/* Advertising */
-			#carbonads {
-				width: 370px;
-				min-height: 100px;
-				font-size: 18px;
-				border: 1px solid rgba(255, 255, 255, 0.2);
-				padding: 10px;
-				margin: 40px auto 0 auto;
-				font-size: 16px;
-				z-index: 10;
-				text-align: left;
-			}
-
-			#carbonads .carbon-img img {
-				float: left;
-				margin: 0 10px 0 0;
-				border: 0;
-				box-shadow: none;
-			}
-
-			#carbonads .carbon-poweredby {
-				display: block;
-				margin-top: 10px;
-				color: #aaa;
-			}
-		</style>
 
 		<script>
 		var _gaq = [['_setAccount', 'UA-15240703-1'], ['_trackPageview']];

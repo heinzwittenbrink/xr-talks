@@ -1,11 +1,11 @@
 ---
-title: XR-Lernraum: Fliegen bis zum Hitzetod?
+title: XR-Lernraum&mdash;Fliegen bis zum Hitzetod?
 date: 2020-05-26
 bibliography: xr-at.bib
 csl: apa.csl
 ---
 
-# Zu dieser Zusammenstellung
+# Vorbemerkung
 
 - Work in Progress!
 - Danke an Stefan Mittermüller für Korrekturen und Ergänzungen!
@@ -33,6 +33,8 @@ Quelle: [CO2 emissions from commercial aviation, 2018 | International Council on
 
 # Flugzeuge sind das CO2-intensivste Verkehrsmittel
 
+#
+
 ![](https://live.staticflickr.com/65535/49521054047_62b8657576_c.jpg)
 
 Source: https://flic.kr/p/2is1m5F
@@ -49,14 +51,14 @@ Source: https://flic.kr/p/2is1m5F
 
 Quelle: [@umweltbundesamtSchwerpunktFliegen2019, S. 16f.]
 
-# Anstieg der Emissionen in Österreich
+#
 
 ![](https://www.vcoe.at/assets/images/3/2018-12-05%20CO2-Emissionen%20Flugverkehr%20O%CC%88sterreich-a22c8ea0.png)
 
 Quelle: [@VCOCO2EmissionenDurch2018]
 
 
-# Wachstum Luftfahrt weltweit 1960-2019
+#
 
 ![](https://vcoe.at/assets/images/2/Flugverkehr%20w%C3%A4chst%20trotz%20globaler%20Krisen-668e0afc.png)
 
@@ -83,8 +85,7 @@ Quelle: [@grebenjakFlugverkehrKeineRuckkehr2020]
 Quelle: [@pidcockAnalysisAviationCould2016]
 
 
-# Nur radikale Reduktion der Luftfahrt ist mit dem Pariser Abkommen vereinbar
-
+#
 
 ![](https://vcoe.at/assets/images/f/Reduktion%20des%20Flugverkehrs-3f644ac0.png)
 
@@ -115,18 +116,18 @@ https://vcoe.at/publikationen/vcoe-factsheets/detail/vcoe-factsheet-2020-05-klim
 
 :::
 
-# Flughäfen Zukunft
+# Flughäfen
 
 - Geplante Infrastrukturprojekte zum Flughafenausbau (kommende 20 Jahren): ca 1000 [@DegrowthAviationReducing2019, S.6]
 - Verbrauch landwirtschaftlicher Flächen durch 3. Piste am Flughafen Wien: 660 Hektar [@grebenjakFlugverkehrKeineRuckkehr2020]
 - Versiegelung durch 3. Piste: 200 Hektar (3x Ringstraße) [@grebenjakFlugverkehrKeineRuckkehr2020]
 
-# Auswirkungen der Luftfahrt
+# Tourismus
 
 - Anteil des Tourismus an der Luftfahrt: Über 50%
 - Folgen des Massentourismus: Eingriffe in Ökosysteme, Vertreibung örtlichen Gewerbes
 
-# Luftfahrt und Klimagerechtigkeit
+# Klimagerechtigkeit
 
 - Zwischen 5 und 20% der Erdbevölkerung sind schon einmal geflogen. [@stainforthLinkingAviationEmissions2019]
 - 60% der Flüge in UK entfallen auf 10% der Bevölkerung [@stainforthLinkingAviationEmissions2019]
@@ -137,7 +138,7 @@ https://vcoe.at/publikationen/vcoe-factsheets/detail/vcoe-factsheet-2020-05-klim
 
 Source: https://flic.kr/p/2hUjMKK
 
-# Dekarbonisierung der Luftfahrt ist unmöglich
+# Dekarbonisierung?
 
 - In absehbarer Zukunft keine Alternative zu Verbrennungsmotoren
 - Biotreibstoffe sind ökologisch katastrophal
@@ -151,11 +152,11 @@ Source: https://flic.kr/p/2hUjMKK
 
 [@DegrowthAviationReducing2019, S.6]
 
-# Lobbyismus der Luftfahrtbranche
+# Lobbyismus und Greenwashing
 
 - 2016: Strategie zur Begrenzung der Emissionen (CORSIA) als Greenwashing-Maßnahme
 
-# Rettung der AUA (und der Lufthansa)
+# Rettung der AUA
 
 - Beantragte Staatshilfen für europäische Fluggesellschaften nach der Corona-Krise: Über 30 Mrd. € (Stand Mai 2020) [@transportenvironmentBailoutTrackerTransport]
 - Vermutete Staatshilfe für die AUA (in Verhandlung): 767 Mill. € [@grebenjakFlugverkehrKeineRuckkehr2020]
@@ -230,3 +231,5 @@ Quelle: [@vcoeVCOeFactsheet202005Klimakrise2020]
 - [Stay Grounded](https://stay-grounded.org/ "Home | Stay Grounded")
 - ICAO: [International Civil Aviation Organization](https://www.icao.int/Pages/default.aspx "Home")
 - ACI: [Airports Council International](https://aci.aero/ "ACI World: The voice of the world's airports"))
+
+# Literatur
