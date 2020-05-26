@@ -64,7 +64,7 @@ Quelle: [@VCOCO2EmissionenDurch2018]
 
 Quelle: [@vcoeVCOeFactsheet202005Klimakrise2020]
 
-# CO2-Emissionen Zukunft
+# Zukunft
 
 - Geplant: Verdoppelung der Flugkilometer in den kommenden 20 Jahren  [@DegrowthAviationReducing2019, S.6]
 - Steigerung der CO2-Emissionen 1990-2010: ca. 25%  [@DegrowthAviationReducing2019, S.6]
@@ -127,7 +127,7 @@ https://vcoe.at/publikationen/vcoe-factsheets/detail/vcoe-factsheet-2020-05-klim
 - Anteil des Tourismus an der Luftfahrt: Über 50%
 - Folgen des Massentourismus: Eingriffe in Ökosysteme, Vertreibung örtlichen Gewerbes
 
-# Klimagerechtigkeit
+# Gerechtigkeit
 
 - Zwischen 5 und 20% der Erdbevölkerung sind schon einmal geflogen. [@stainforthLinkingAviationEmissions2019]
 - 60% der Flüge in UK entfallen auf 10% der Bevölkerung [@stainforthLinkingAviationEmissions2019]
@@ -140,7 +140,7 @@ https://vcoe.at/publikationen/vcoe-factsheets/detail/vcoe-factsheet-2020-05-klim
 
 Source: https://flic.kr/p/2hUjMKK
 
-# Dekarbonisierung?
+# Dekarbonisierung
 
 - In absehbarer Zukunft keine Alternative zu Verbrennungsmotoren
 - Biotreibstoffe sind ökologisch katastrophal
@@ -167,7 +167,7 @@ Source: https://flic.kr/p/2hUjMKK
 
 - Die Wurzel des Problems ist das Wachstum der Luftfahrt
 
-# Maßnahmen gegen das Wachstum
+# Degrowth
 
  - Steuern statt Steuerbefreiungen
  - Frequent Flyer und Flugmeilen-Verteuerung
@@ -214,6 +214,8 @@ Source: https://flic.kr/p/2hUg78v
 
 # Bevölkerung unterstützt Klimaschutz im Flugverkehr
 
+#
+
 ![](https://vcoe.at/assets/images/4/Klimaschutzma%C3%9Fnahmen%20im%20Flugverkehr-04984e1e.png)
 
 Quelle: [@vcoeVCOeFactsheet202005Klimakrise2020]
@@ -224,7 +226,7 @@ Quelle: [@vcoeVCOeFactsheet202005Klimakrise2020]
 - Aktionen an Flughäfen und gegen Fluggesellschaften ?
 - Schwerpunkte von Kampagnen: Wachstum der Luftfahrt, Luftfahrt als Schlüsselelement des *toxischen Systems*, Bürgerversammlungen gegen Luffahrt-Lobbyismus
 
-# Material, Informationsquellen
+# Mehr
 
 - Zotero Group Library XR-Austria: Luftfahrt: <https://www.zotero.org/groups/2419368/xr-at/collections/ICNRF3Y9>
 - Letzter Stand dieser Präsentation: <https://github.com/heinzwittenbrink/xr-talks/blob/gh-pages/xr-luftfahrt.md>
