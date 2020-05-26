@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 author: Heinz Wittenbrink
 date: 2020-05-26
 bibliography: XR-AT.bib
@@ -22,11 +23,45 @@ ACI: Airports Council International (Website: [ACI World: The voice of the world
 # Flugzeuge sind das CO2-intensivste Verkehrsmittel
 
 # {data-background="https://live.staticflickr.com/65535/49521054047_62b8657576_c.jpg" data-background-size="contain"}
+=======
+title: XR-Lernraum\: Fliegen bis zum Hitzetod?
+date: 2020-05-26
+bibliography: xr-at.bib
+csl: apa.csl
+---
+
+
+
+
+# CO2-Verbrauch aktuell
+
+- CO2-Emissionen 2018: 9,8 Mill. Tonnen (2,4% der Gesamtemissionen)
+- Fünfjahreswachstum bis 2018: 35%
+- Anteil der USA an durch Passagiere verursachten Emissionen 2018: 24%
+- Größte Emittenten (Länder): USA, China, UK, Japan, Deutschland
+
+Quelle:
+
+# CO2-Emissionen 2018
+
+![](https://theicct.org/sites/default/files/chart_landing-pg.png)
+
+Quelle: [CO2 emissions from commercial aviation, 2018 | International Council on Clean Transportation](https://theicct.org/publications/co2-emissions-commercial-aviation-2018 "CO2 emissions from commercial aviation, 2018 | International Council on Clean Transportation")
+
+# Kurzzusammenfassung CO2-Emissionen durch die kommerzielle Luftfahrt 2018
+
+<https://theicct.org/sites/default/files/ICCT_CO2-commrcl-aviation-2018_facts-DE_final.pdf>
+
+# Flugzeuge sind das CO2-intensivste Verkehrsmittel
+
+![](https://live.staticflickr.com/65535/49521054047_62b8657576_c.jpg)
+>>>>>>> 700d9f6c9845e2cd9d5c3b6d9ce1e824d809d448
 
 Source: https://flic.kr/p/2is1m5F
 
 # Klimawirkung aktuell
 
+<<<<<<< HEAD
 - Faktor für die Klimawirkung der Luftfahrt
 
 ::: notes
@@ -65,6 +100,59 @@ Source: https://flic.kr/p/2is1m5F
 
 
 # {data-background="https://live.staticflickr.com/65535/49162524557_cef87532a8_c.jpg" data-background-size="contain"}
+=======
+- Faktor für die Klimawirkung der Luftfahrt lt. Österreichischem Bundesumweltamt: 2.7 [@DegrowthAviationReducing2019, S.7]
+- Aneil der klimaschädlichen Effekte des Fluverkehrs in Österreich: ca 10% [@grebenjakFlugverkehrKeineRuckkehr2020]
+- Geschätzte Klimawirkung der Luftfahrt insgesamt 2005: 5% [@DegrowthAviationReducing2019, S.8]
+
+# Klimaeffekte der Luftfahrt insgesamt
+
+![](https://raw.githubusercontent.com/heinzwittenbrink/xr-talks/gh-pages/xr-talks/pics/klimaeffekte_luftfahrt.png)
+
+Quelle: [@umweltbundesamtSchwerpunktFliegen2019, S. 16f.]
+
+# CO2 Verbrauch Zukunft
+
+- Geplant: Verdoppelung der Flugkilometer in den kommenden 20 Jahren  [@DegrowthAviationReducing2019, S.6]
+- Steigerung der CO2-Emissionen 1990-2010: ca. 25%  [@DegrowthAviationReducing2019, S.6]
+- Steigerung der Emissionen der Luftfahrt 1990-2010: ca. 70%  [@DegrowthAviationReducing2019, S.6]
+- Steigerungsfaktor Treibstoffverbrauchs 2015-2045 (Industrieschätzung): 2,2-3,1 [@counciloficaoICAOGlobalEnvironmental2019]
+
+# Luftfahrt und CO2-Budget
+
+- Gesamtausstoß bis 2050 bei ungebremstem Wachstum nach Branchenprognosen: 50 Gigatonnen
+- Gesamt CO2-Budget für 1,5-Grad Ziel (optimistisch): 340 Gigatonnen
+
+Quelle: [@grebenjakFlugverkehrKeineRuckkehr2020]
+
+#
+
+![](https://www.carbonbrief.org/wp-content/uploads/2016/08/Aviation-emissions-graphic.jpg)
+
+Quelle: [@pidcockAnalysisAviationCould2016]
+
+
+
+# Flughäfen Zukunft
+
+- Geplante Infrastrukturprojekte zum Flughafenausbau (kommende 20 Jahren): ca 1000 [@DegrowthAviationReducing2019, S.6]
+- Verbrauch landwirtschaftlicher Flächen durch 3. Piste am Flughafen Wien: 660 Hektar [@grebenjakFlugverkehrKeineRuckkehr2020]
+- Versiegelung durch 3. Piste: 200 Hektar (3x Ringstraße) [@grebenjakFlugverkehrKeineRuckkehr2020]
+
+# Auswirkungen der Luftfahrt
+
+- Anteil des Tourismus an der Luftfahrt: Über 50%
+- Folgen des Massentourismus: Eingriffe in Ökosysteme, Vertreibung örtlichen Gewerbes
+
+# Luftfahrt und Klimagerechtigkeit
+
+- Zwischen 5 und 20% der Erdbevölkerung sind schon einmal geflogen. [@stainforthLinkingAviationEmissions2019]
+- 60% der Flüge in UK entfallen auf 10% der Bevölkerung [@stainforthLinkingAviationEmissions2019]
+
+# Steuern auf Treibstoffe
+
+![](https://live.staticflickr.com/65535/49162524557_cef87532a8_c.jpg)
+>>>>>>> 700d9f6c9845e2cd9d5c3b6d9ce1e824d809d448
 
 Source: https://flic.kr/p/2hUjMKK
 
@@ -76,12 +164,27 @@ Source: https://flic.kr/p/2hUjMKK
 - Zertifikate schränken die Luftfahrt kaum ein
 - Kompensationen sind wirkungslos und teilweise gefährlich
 
+<<<<<<< HEAD
+=======
+# Privilegien und Subventionen
+
+- Einahmenverlust durch Steuerbefreiungen der Luftfaht in der EU: Jährlich 30-40 Mrd.n €
+
+[@DegrowthAviationReducing2019, S.6]
+
+>>>>>>> 700d9f6c9845e2cd9d5c3b6d9ce1e824d809d448
 # Lobbyismus der Luftfahrtbranche
 
 - 2016: Strategie zur Begrenzung der Emissionen (CORSIA) als Greenwashing-Maßnahme
 
 # Rettung der AUA (und der Lufthansa)
 
+<<<<<<< HEAD
+=======
+- Beantragte Staatshilfen für europäische Fluggesellschaften nach der Corona-Krise: Über 30 Mrd. € (Stand Mai 2020) [@transportenvironmentBailoutTrackerTransport]
+- Vermutete Staatshilfe für die AUA (in Verhandlung): 767 Mill. € [@grebenjakFlugverkehrKeineRuckkehr2020]
+
+>>>>>>> 700d9f6c9845e2cd9d5c3b6d9ce1e824d809d448
 # Problem des Wachstums
 
 - Die Wurzel des Problems ist das Wachstum der Luftfahrt
@@ -97,7 +200,13 @@ Source: https://flic.kr/p/2hUjMKK
  - Abbau des Tourismus
  - Förderung von Alternativen
 
+<<<<<<< HEAD
 # {data-background="https://live.staticflickr.com/65535/49162524652_93e47ee167_c.jpg" data-background-size="contain"}
+=======
+#
+
+![](https://live.staticflickr.com/65535/49162524652_93e47ee167_c.jpg)
+>>>>>>> 700d9f6c9845e2cd9d5c3b6d9ce1e824d809d448
 
 
 Source: https://flic.kr/p/2hUjMMo
@@ -108,6 +217,7 @@ Source: https://flic.kr/p/2hUjMMo
 - 2016: Stay Grounded (gegen CORSIA)
 - Anti-Luftfahrt-Aktivismus in der Klimabewegung
 
+<<<<<<< HEAD
 # {data-background="https://live.staticflickr.com/65535/49161805923_188c87c207_c.jpg" data-background-size="contain"}
 
 
@@ -115,7 +225,43 @@ Source: https://flic.kr/p/2hUjMMo
 Source: https://flic.kr/p/2hUg78v
 
 # Strategie XR Austria
+=======
+#
+
+![](https://live.staticflickr.com/65535/49161805923_188c87c207_c.jpg)
+
+Source: https://flic.kr/p/2hUg78v
+
+# Forderungen von Stay Grounded zur AUA-Rettung
+
+    1. Sofortige Abschaffung von Inlandsflügen.
+    2. Schrittweise Einstellung aller Kurzstreckenflüge in Nachbarländer
+    3. Staatsbeteiligung nur mit aktiver Mitsprache.
+    4. Sperre der Ausschüttung von Dividenden für Anteilseigner*innen sowie der Erhöhung der Gehälter und Boni von Manager*innen.
+    5. Vorlegen einer Unternehmensstrategie für eine Dekarbonisierung
+    6. Für die AUA soll eine Arbeitsstiftung für einen gerechten Übergang eingerichtet werden
+    7. Einführung einer Kerosinsteuer auf nationaler Ebene sowie Einsatz für deren Einführung auf EU-Ebene.
+    8. Einführung einer progressiven Vielflieger*innenabgabe
+    9. Ende der Umsatzsteuerbefreiung von Tickets für innereuropäische Flüge sowie Anhebung der Umsatzsteuer auf den vollen Steuersatz.
+    10. Einführung eines Branchen-Kollektivvertrages sowie gesetzlicher Bestimmungen gegen Dumpingpreise
+
+[@staygroundedAUAStaatshilfenZehnMassnahmen2020]
+
+# Diskussionspunkte: Strategie XR Austria
+>>>>>>> 700d9f6c9845e2cd9d5c3b6d9ce1e824d809d448
 
 - Bündnisse mit Anti-Luftfahrt-Aktivist*innen
 - Aktionen an Flughäfen und gegen Fluggesellschaften ?
 - Schwerpunkte von Kampagnen: Wachstum der Luftfahrt, Luftfahrt als Schlüsselelement des *toxischen Systems*, Bürgerversammlungen gegen Luffahrt-Lobbyismus
+<<<<<<< HEAD
+=======
+
+# Material, Informationsquellen
+
+- Zotero Group Library XR-Austria: Luftfahrt: <https://www.zotero.org/groups/2419368/xr-at/collections/ICNRF3Y9>
+- Letzter Stand dieser Präsentation: <https://github.com/heinzwittenbrink/xr-talks/blob/gh-pages/xr-luftfahrt.md>
+ - [International Council on Clean Transportation](https://theicct.org/ "International Council on Clean Transportation")
+ - [Home | Stay Grounded](https://stay-grounded.org/ "Home | Stay Grounded")
+ - ICAO: [International Civil Aviation Organization](https://www.icao.int/Pages/default.aspx "Home")
+- ACI: [Airports Council International](https://aci.aero/ "ACI World: The voice of the world's airports"))
+>>>>>>> 700d9f6c9845e2cd9d5c3b6d9ce1e824d809d448
