@@ -1,4 +1,9 @@
-
+---
+title: XR-Lernraum\: Fliegen bis zum Hitzetod?
+date: 2020-05-26
+bibliography: xr-at.bib
+csl: apa.csl
+---
 
 
 
@@ -31,11 +36,12 @@ Source: https://flic.kr/p/2is1m5F
 # Klimawirkung aktuell
 
 - Faktor für die Klimawirkung der Luftfahrt lt. Österreichischem Bundesumweltamt: 2.7 [@DegrowthAviationReducing2019, S.7]
+- Aneil der klimaschädlichen Effekte des Fluverkehrs in Österreich: ca 10% [@grebenjakFlugverkehrKeineRuckkehr2020]
 - Geschätzte Klimawirkung der Luftfahrt insgesamt 2005: 5% [@DegrowthAviationReducing2019, S.8]
 
-#
+# Klimaeffekte der Luftfahrt insgesamt
 
-![](./pics/klimaeffekte_luftfahrt.png)
+![](pics/klimaeffekte_luftfahrt.png)
 
 Quelle: [@umweltbundesamtSchwerpunktFliegen2019, S. 16f.]
 
@@ -46,16 +52,26 @@ Quelle: [@umweltbundesamtSchwerpunktFliegen2019, S. 16f.]
 - Steigerung der Emissionen der Luftfahrt 1990-2010: ca. 70%  [@DegrowthAviationReducing2019, S.6]
 - Steigerungsfaktor Treibstoffverbrauchs 2015-2045 (Industrieschätzung): 2,2-3,1 [@counciloficaoICAOGlobalEnvironmental2019]
 
+# Luftfahrt und CO2-Budget
 
-# Flughäfen aktuell
+- Gesamtausstoß bis 2050 bei ungebremstem Wachstum nach Branchenprognosen: 50 Gigatonnen
+- Gesamt CO2-Budget für 1,5-Grad Ziel (optimistisch): 340 Gigatonnen
+
+Quelle: [@grebenjakFlugverkehrKeineRuckkehr2020]
+
+#
+
+![](https://www.carbonbrief.org/wp-content/uploads/2016/08/Aviation-emissions-graphic.jpg)
+
+Quelle: [@pidcockAnalysisAviationCould2016]
 
 
 
 # Flughäfen Zukunft
 
-- Geplante Infrastrukturprojekte zum Flughafenausbau (kommende 20 Jahren): ca 1000
-
-[@DegrowthAviationReducing2019, S.6]
+- Geplante Infrastrukturprojekte zum Flughafenausbau (kommende 20 Jahren): ca 1000 [@DegrowthAviationReducing2019, S.6]
+- Verbrauch landwirtschaftlicher Flächen durch 3. Piste am Flughafen Wien: 660 Hektar [@grebenjakFlugverkehrKeineRuckkehr2020]
+- Versiegelung durch 3. Piste: 200 Hektar (3x Ringstraße) [@grebenjakFlugverkehrKeineRuckkehr2020]
 
 # Auswirkungen der Luftfahrt
 
@@ -64,7 +80,8 @@ Quelle: [@umweltbundesamtSchwerpunktFliegen2019, S. 16f.]
 
 # Luftfahrt und Klimagerechtigkeit
 
-- Weniger als 10% der Erdbevölkerung sind schon einmal geflogen. [@DegrowthAviationReducing2019, S.4]
+- Zwischen 5 und 20% der Erdbevölkerung sind schon einmal geflogen. [@stainforthLinkingAviationEmissions2019]
+- 60% der Flüge in UK entfallen auf 10% der Bevölkerung [@stainforthLinkingAviationEmissions2019]
 
 # Steuern auf Treibstoffe
 
@@ -127,9 +144,22 @@ Source: https://flic.kr/p/2hUjMMo
 
 ![](https://live.staticflickr.com/65535/49161805923_188c87c207_c.jpg)
 
-
-
 Source: https://flic.kr/p/2hUg78v
+
+# Forderungen von Stay Grounded zur AUA-Rettung
+
+    1. Sofortige Abschaffung von Inlandsflügen.
+    2. Schrittweise Einstellung aller Kurzstreckenflüge in Nachbarländer
+    3. Staatsbeteiligung nur mit aktiver Mitsprache.
+    4. Sperre der Ausschüttung von Dividenden für Anteilseigner*innen sowie der Erhöhung der Gehälter und Boni von Manager*innen.
+    5. Vorlegen einer Unternehmensstrategie für eine Dekarbonisierung
+    6. Für die AUA soll eine Arbeitsstiftung für einen gerechten Übergang eingerichtet werden
+    7. Einführung einer Kerosinsteuer auf nationaler Ebene sowie Einsatz für deren Einführung auf EU-Ebene.
+    8. Einführung einer progressiven Vielflieger*innenabgabe
+    9. Ende der Umsatzsteuerbefreiung von Tickets für innereuropäische Flüge sowie Anhebung der Umsatzsteuer auf den vollen Steuersatz.
+    10. Einführung eines Branchen-Kollektivvertrages sowie gesetzlicher Bestimmungen gegen Dumpingpreise
+
+[@staygroundedAUAStaatshilfenZehnMassnahmen2020]
 
 # Diskussionspunkte: Strategie XR Austria
 
