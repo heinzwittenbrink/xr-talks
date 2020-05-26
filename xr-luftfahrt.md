@@ -49,6 +49,8 @@ Quelle: [@umweltbundesamtSchwerpunktFliegen2019, S. 16f.]
 
 # Flughäfen aktuell
 
+
+
 # Flughäfen Zukunft
 
 - Geplante Infrastrukturprojekte zum Flughafenausbau (kommende 20 Jahren): ca 1000
