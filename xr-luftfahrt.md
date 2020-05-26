@@ -21,13 +21,13 @@ csl: apa.csl
 
 Quelle:
 
-# CO2-Emissionen 2018
+# Emissionen 2018
 
 ![](https://theicct.org/sites/default/files/chart_landing-pg.png)
 
 Quelle: [CO2 emissions from commercial aviation, 2018 | International Council on Clean Transportation](https://theicct.org/publications/co2-emissions-commercial-aviation-2018 "CO2 emissions from commercial aviation, 2018 | International Council on Clean Transportation")
 
-# Kurzzusammenfassung CO2-Emissionen durch die kommerzielle Luftfahrt 2018
+# CO2-Emissionen durch die kommerzielle Luftfahrt 2018
 
 <https://theicct.org/sites/default/files/ICCT_CO2-commrcl-aviation-2018_facts-DE_final.pdf>
 
@@ -39,13 +39,13 @@ Quelle: [CO2 emissions from commercial aviation, 2018 | International Council on
 
 Source: https://flic.kr/p/2is1m5F
 
-# Klimawirkung aktuell
+# Klimawirkung
 
 - Faktor für die Klimawirkung der Luftfahrt lt. Österreichischem Bundesumweltamt: 2.7 [@DegrowthAviationReducing2019, S.7]
 - Aneil der klimaschädlichen Effekte des Fluverkehrs in Österreich: ca 10% [@grebenjakFlugverkehrKeineRuckkehr2020]
 - Geschätzte Klimawirkung der Luftfahrt insgesamt 2005: 5% [@DegrowthAviationReducing2019, S.8]
 
-# Klimaeffekte der Luftfahrt insgesamt
+# Effekte global
 
 ![](https://raw.githubusercontent.com/heinzwittenbrink/xr-talks/gh-pages/xr-talks/pics/klimaeffekte_luftfahrt.png)
 
