@@ -41,7 +41,7 @@ Source: https://flic.kr/p/2is1m5F
 
 # Klimaeffekte der Luftfahrt insgesamt
 
-![](pics/klimaeffekte_luftfahrt.png)
+![](https://raw.githubusercontent.com/heinzwittenbrink/xr-talks/gh-pages/xr-talks/pics/klimaeffekte_luftfahrt.png)
 
 Quelle: [@umweltbundesamtSchwerpunktFliegen2019, S. 16f.]
 
@@ -169,9 +169,8 @@ Source: https://flic.kr/p/2hUg78v
 
 # Material, Informationsquellen
 
-Zotero Group Library XR-Austria: Luftfahrt: <https://www.zotero.org/groups/2419368/xr-at/collections/ICNRF3Y9>
-Letzter Stand dieser Präsentation: <https://github.com/heinzwittenbrink/xr-talks/blob/gh-pages/xr-luftfahrt.md>
-
+- Zotero Group Library XR-Austria: Luftfahrt: <https://www.zotero.org/groups/2419368/xr-at/collections/ICNRF3Y9>
+- Letzter Stand dieser Präsentation: <https://github.com/heinzwittenbrink/xr-talks/blob/gh-pages/xr-luftfahrt.md>
  - [International Council on Clean Transportation](https://theicct.org/ "International Council on Clean Transportation")
  - [Home | Stay Grounded](https://stay-grounded.org/ "Home | Stay Grounded")
  - ICAO: [International Civil Aviation Organization](https://www.icao.int/Pages/default.aspx "Home")
