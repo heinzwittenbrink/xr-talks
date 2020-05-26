@@ -33,6 +33,12 @@ Source: https://flic.kr/p/2is1m5F
 - Faktor für die Klimawirkung der Luftfahrt lt. Österreichischem Bundesumweltamt: 2.7 [@DegrowthAviationReducing2019, S.7]
 - Geschätzte Klimawirkung der Luftfahrt insgesamt 2005: 5% [@DegrowthAviationReducing2019, S.8]
 
+#
+
+![](/pics/klimaeffekte_luftfahrt.png)
+
+Quelle: [@umweltbundesamtSchwerpunktFliegen2019, S. 16f.]
+
 # CO2 Verbrauch Zukunft
 
 - Geplant: Verdoppelung der Flugkilometer in den kommenden 20 Jahren  [@DegrowthAviationReducing2019, S.6]
@@ -85,7 +91,7 @@ Source: https://flic.kr/p/2hUjMKK
 # Rettung der AUA (und der Lufthansa)
 
 - Beantragte Staatshilfen für europäische Fluggesellschaften nach der Corona-Krise: Über 30 Mrd. € (Stand Mai 2020) [@transportenvironmentBailoutTrackerTransport]
-- Vermutete Staatshilfe für die AUA (in Verhandlung): 667 Mill. € [@grebenjakFlugverkehrKeineRuckkehr2020] 
+- Vermutete Staatshilfe für die AUA (in Verhandlung): 767 Mill. € [@grebenjakFlugverkehrKeineRuckkehr2020]
 
 # Problem des Wachstums
 
