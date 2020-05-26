@@ -18,6 +18,10 @@ Quelle:
 
 Quelle: [CO2 emissions from commercial aviation, 2018 | International Council on Clean Transportation](https://theicct.org/publications/co2-emissions-commercial-aviation-2018 "CO2 emissions from commercial aviation, 2018 | International Council on Clean Transportation")
 
+# Kurzzusammenfassung CO2-Emissionen durch die kommerzielle Luftfahrt 2018
+
+<https://theicct.org/sites/default/files/ICCT_CO2-commrcl-aviation-2018_facts-DE_final.pdf>
+
 # Flugzeuge sind das CO2-intensivste Verkehrsmittel
 
 ![](https://live.staticflickr.com/65535/49521054047_62b8657576_c.jpg)
@@ -27,15 +31,15 @@ Source: https://flic.kr/p/2is1m5F
 # Klimawirkung aktuell
 
 - Faktor für die Klimawirkung der Luftfahrt lt. Österreichischem Bundesumweltamt: 2.7 [@DegrowthAviationReducing2019, S.7]
-- Geschätzte Klimawirkung der Luftfahrt insgesamt 2005: 5%" [@DegrowthAviationReducing2019, S.8]
+- Geschätzte Klimawirkung der Luftfahrt insgesamt 2005: 5% [@DegrowthAviationReducing2019, S.8]
 
 # CO2 Verbrauch Zukunft
 
-- Geplant: Verdoppelung der Flugkilometer in den kommenden 20 Jahren
-- Steigerung der CO2-Emissionen 1990-2010: ca. 25%
-- Steigerung der Emissionen der Luftfahrt 1990-2010: ca. 70%
+- Geplant: Verdoppelung der Flugkilometer in den kommenden 20 Jahren  [@DegrowthAviationReducing2019, S.6]
+- Steigerung der CO2-Emissionen 1990-2010: ca. 25%  [@DegrowthAviationReducing2019, S.6]
+- Steigerung der Emissionen der Luftfahrt 1990-2010: ca. 70%  [@DegrowthAviationReducing2019, S.6]
+- Steigerungsfaktor Treibstoffverbrauchs 2015-2045 (Industrieschätzung): 2,2-3,1 [@counciloficaoICAOGlobalEnvironmental2019]
 
- [@DegrowthAviationReducing2019, S.6]
 
 # Flughäfen aktuell
 
@@ -79,6 +83,9 @@ Source: https://flic.kr/p/2hUjMKK
 - 2016: Strategie zur Begrenzung der Emissionen (CORSIA) als Greenwashing-Maßnahme
 
 # Rettung der AUA (und der Lufthansa)
+
+- Beantragte Staatshilfen für europäische Fluggesellschaften nach der Corona-Krise: Über 30 Mrd. € (Stand Mai 2020) [@transportenvironmentBailoutTrackerTransport]
+- Vermutete Staatshilfe für die AUA (in Verhandlung): 667 Mill. € [@grebenjakFlugverkehrKeineRuckkehr2020] 
 
 # Problem des Wachstums
 
